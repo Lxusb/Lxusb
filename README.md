@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lxusb
-- 👀 I’m interested in ... Women, black coffee, Red wine and coding and Architecture
+- 👀 I’m interested in ... black coffee, Red wine and coding and Architecture
 - 🌱 I’m currently learning ...HTML & CSS
 - 💞️ I’m looking to collaborate on ...Front-End Developments
 - 📫 How to reach me ... @lxusbrwn or lxusbrwn@outlook.com
